@@ -1,6 +1,6 @@
 
 {
-    "name": "hlyun/utils_dev",
+    "name": "hlyun_dev/utils_dev",
     "description": "封装常用方法",
     "type": "library",
     "license": "MIT",
